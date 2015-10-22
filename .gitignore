@@ -7,7 +7,6 @@
 *.bak.cpp
 test.*
 additions.*
-*.exe
 test.*
 temp.*
 
